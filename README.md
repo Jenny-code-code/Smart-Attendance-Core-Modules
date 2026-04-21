@@ -1,7 +1,7 @@
 # Smart Attendance Hub: Core Modules
 
 ## 專案定位
-本專案為針對工廠端「承攬商管理 (Contractor Management)」需求所建置的 C# 核心邏輯驗證區 (Proof of Concept)。
+本專案為針對工廠端「承攬商管理」需求所建置的 C# 核心邏輯驗證區 (Proof of Concept)。
 在完成 C# 基礎語法與物件導向 (OOP) 概念的先期研讀後，我著手將理論轉化為實際的模組化程式碼，作為後續開發完整智慧出勤系統的底層基礎。
 
 ## 核心功能實作
